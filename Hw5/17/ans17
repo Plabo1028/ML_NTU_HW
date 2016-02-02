@@ -1,0 +1,5 @@
+log10_C:-6,alpha:0.001084
+log10_C:-4,alpha:0.1084
+log10_C:-2,alpha:10.84
+log10_C:0,alpha:1084.0
+log10_C:2,alpha:108400.0
